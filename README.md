@@ -713,4 +713,4 @@ As informações relacionadas à Namiê Brasil foram confrontadas com os materia
 
 Da mesma forma, as sugestões aplicadas ao script SQL foram avaliadas considerando as regras de negócio e os resultados esperados das consultas.
 
-A utilização dessas ferramentas permitiu otimizar atividades de revisão, organização e documentação, mas também exigiu análise crítica para evitar a incorporação de informações incorretas ou incompatíveis com o projeto.
+A utilização dessas ferramentas permitiu otimizar atividades de revisão organização e documentação, mas também exigiu análise crítica para evitar a incorporação de informações incorretas ou incompatíveis com o projeto.
