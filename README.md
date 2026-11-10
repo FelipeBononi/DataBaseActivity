@@ -50,9 +50,9 @@
 
 | | |
 |---|---|
-| ![Reunião com a gerência](imagens/foto6.jpeg) | ![Chão de fábrica](imagens/foto1.jpeg) |
-| ![Chão de fábrica](imagens/foto2.jpeg) | ![Chão de fábrica](imagens/foto3.jpeg) |
-| ![Chão de fábrica](imagens/foto4.jpeg) | ![Chão de fábrica](imagens/foto5.jpeg) |
+| ![Reunião com a gerência](foto6.jpeg) | ![Chão de fábrica](foto1.jpeg) |
+| ![Chão de fábrica](foto2.jpeg) | ![Chão de fábrica](foto3.jpeg) |
+| ![Chão de fábrica](foto4.jpeg) | ![Chão de fábrica](foto5.jpeg) |
 
 **Responsável pela organização:** Mirellen Namie Yanachi, Fundadora e CEO da Empresa · telefone (11) 97167-5752
 
